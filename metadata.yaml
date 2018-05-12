@@ -1,0 +1,34 @@
+_repo: The-Billow-and-the-Rock_23115
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wheeler, Edward J.
+    alias: Wheeler, E. J. (Edward J.)
+    deathdate: 1933
+    gutenberg_agent_id: '25686'
+    url: http://www.gutenberg.org/2009/agents/25686
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+description: ''
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- Fiction'
+title: The Billow and the Rock
+url: http://www.gutenberg.org/ebooks/23115
